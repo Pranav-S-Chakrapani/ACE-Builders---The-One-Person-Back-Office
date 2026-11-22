@@ -1,0 +1,9 @@
+node_modules/
+dist/
+screenshots/
+.env
+.env.*
+.codebenders/state.json
+.codebenders/scratch/*.out.txt
+.codebenders/scratch/*.out.json
+.codebenders/scratch/chrome-profile*/
