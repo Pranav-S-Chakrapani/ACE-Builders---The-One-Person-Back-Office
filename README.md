@@ -2,7 +2,7 @@
 
 A cash-flow back office for solo freelancers, built for Problem Statement 1 (Small Business Operations).
 
-Live demo: _(add deployed URL)_
+Live demo: https://ace-builders-the-one-person-back-of.vercel.app/
 
 ## The problem and persona
 
